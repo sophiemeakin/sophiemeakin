@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello, I'm Sophie!
+
+👩‍💻 I'm a quantitative epidemiologist at Epicentre, Médecins Sans Frontières.
+
+* 🌟 I'm interested in using mathematical and statistical modelling to support and improve response to infectious disease outbreaks in humanitarian settings.
+* ⚙️ *R* enthusiast.
+* 🇫🇷 Based in Paris, France.
+* ⬅️ Previously a Research Fellow in real-time modelling of infectious disease outbreaks at the London School of Hygiene and Tropical Medicine (UK), and a consultant with the World Health Organisation (Goma, Democratic Republic of the Congo).
+
+📫 Contact me at sophie.meakin@epicentre.msf.org
 
 <!--
 **sophiemeakin/sophiemeakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
