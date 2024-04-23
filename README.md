@@ -3,9 +3,11 @@
 🌟 I'm a quantitative epidemiologist at [Epicentre](https://epicentre.msf.org/en), Médecins Sans Frontières.
 
 * 👩‍💻 I'm interested in developing and/or applying mathematical and statistical methods to support response to infectious disease outbreaks, primarily in humanitarian settings. I'm currently working on projects on cholera and Ebola virus disease, and I also worked on the COVID-19 pandemic.
-    * 📄 Recent publication: [Quantifying the impact of hospital catchment area definitions on hospital admissions forecasts: COVID-19 in England, September 2020–April 2021](https://doi.org/10.1186/s12916-024-03369-0).    
-* ⚙️ R user, and dabbling occasionally in Stan. I'm an R instructor with the nonprofit [Applied Epi](https://appliedepi.org/).
-    * 📦 I recently co-developed an R package [{pepbp}](https://sophiemeakin.github.io/pepbp/) to simulate an infectious disease outbreak with post-exposure prophylaxis for high-risk contacts.
+    * ❗📄 Recent publication: [Quantifying the impact of hospital catchment area definitions on hospital admissions forecasts: COVID-19 in England, September 2020–April 2021](https://doi.org/10.1186/s12916-024-03369-0).    
+* ⚙️ R user, and dabbling occasionally in Stan.
+    * 📦 [{pepbp}](https://sophiemeakin.github.io/pepbp/): Simulating an infectious disease outbreak with post-exposure prophylaxis for high-risk contacts.
+    * 📦 [{technocolour}](https://sophiemeakin.github.io/technocolour/): Colour palettes based on electronic music records.
+* 💻 I'm an R instructor with the nonprofit [Applied Epi](https://appliedepi.org/).
 * 🇫🇷 Based in Paris, France.
 * ⬅️ Previously a Research Fellow in real-time modelling of infectious disease outbreaks at the London School of Hygiene and Tropical Medicine (UK), and a consultant with the World Health Organisation (Goma, Democratic Republic of the Congo).
 * 🎓 PhD in applied mathematics from the University of Warwick.
