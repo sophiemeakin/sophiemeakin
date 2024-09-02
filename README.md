@@ -10,7 +10,6 @@
 * 📦 Recent R projects:
     * [{pepbp}](https://sophiemeakin.github.io/pepbp/): Simulating an infectious disease outbreak with post-exposure prophylaxis for high-risk contacts.
     * [{technocolour}](https://sophiemeakin.github.io/technocolour/): Colour palettes based on electronic music records.
-    * [{suminagashimap}](https://github.com/sophiemeakin/suminagashimap): Make suminagashi-style topographic map art - 🚧 work in progress!
 * 💻 I'm an R instructor with the nonprofit [Applied Epi](https://appliedepi.org/).
 * 🇫🇷 Based in Paris, France.
 * ⬅️ Previously a Research Fellow in real-time modelling of infectious disease outbreaks at the London School of Hygiene and Tropical Medicine (UK), and a consultant with the World Health Organisation (Goma, Democratic Republic of the Congo).
