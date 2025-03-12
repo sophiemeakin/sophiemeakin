@@ -9,6 +9,7 @@
 * ⚙️ R user, and dabbling occasionally in Stan.
 * 📦 Recent R projects:
     * [{pepbp}](https://sophiemeakin.github.io/pepbp/): Simulating an infectious disease outbreak with post-exposure prophylaxis for high-risk contacts.
+    * [{suminagashimap}](https://github.com/sophiemeakin/suminagashimap): Making suminagashi-style topographic map art from elevation data.
     * [{technocolour}](https://sophiemeakin.github.io/technocolour/): Colour palettes based on electronic music records.
 * 💻 I'm an R instructor with the nonprofit [Applied Epi](https://appliedepi.org/).
 * 🇫🇷 Based in Paris, France.
